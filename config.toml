@@ -1,4 +1,4 @@
 baseURL = "https://www.kweebs.com/"
 languageCode = "en-us"
 title = "Kweebs"
-theme = "anubis"
+theme = "hugo-base16-theme"
